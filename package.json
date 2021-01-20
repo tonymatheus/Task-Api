@@ -1,0 +1,19 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "Api de Gestão de tarefas ",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Tony Matheus",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "type": "module"
+}
